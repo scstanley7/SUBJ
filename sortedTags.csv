@@ -1,0 +1,484 @@
+"","manualTags.v","Freq"
+"1","Metadata Application Profile",94
+"2","Subjects",86
+"3","Contribute 2",49
+"4","Contribute 1",47
+"5","Contribute 4",42
+"6","Contribute 5",42
+"7","Metadata",18
+"8","Dublin Core",11
+"9","Cataloging",10
+"10","Tagging",10
+"11","Controlled vocabularies",9
+"12","Folksonomy",7
+"13","zHake Bonnie",7
+"14","Academic Libraries",6
+"15","controlled vocabularies",6
+"16","Information retrieval",6
+"17","Thesauri",6
+"18","zBrant Casey",6
+"19","zMarquez Ricah",6
+"20","Classification",5
+"21","Information Retrieval",5
+"22","Subject headings",5
+"23","Subject Headings",5
+"24","zChang Jieun",5
+"25","zWoolwine Katie",5
+"26","Archives",4
+"27","Cataloging of nonbook materials",4
+"28","controlled vocabulary",4
+"29","Cultural Heritage",4
+"30","digital collections",4
+"31","Digital Libraries",4
+"32","Folksonomies",4
+"33","Indexing",4
+"34","metadata",4
+"35","Social tagging system",4
+"36","zAnderson Erin",4
+"37","zBayron, Julian",4
+"38","zBland Michael",4
+"39","zCruz Anna",4
+"40","zDickman Caroline",4
+"41","zdosunmu junaid",4
+"42","zDrake Asa",4
+"43","zDunn Dylan",4
+"44","zGower Jessie",4
+"45","zHaessler Kasey",4
+"46","zJarvis Heather",4
+"47","zJerome Melissa",4
+"48","zlauzier scott",4
+"49","zLeahy Cindy",4
+"50","zLeFebvre Yvette",4
+"51","zMcEntee Marie",4
+"52","zMiller Laura",4
+"53","zMiller Randy",4
+"54","zMonahan Ashley",4
+"55","zNorton Gabriella",4
+"56","zPickle Kathy",4
+"57","zRainwater Elijah",4
+"58","zRappaport Karen",4
+"59","zReiskind Elissa",4
+"60","zReyes Diana",4
+"61","zStanley Sarah",4
+"62","zTaylor Quentin",4
+"63","zTeske Kerri",4
+"64","zVila Jose",4
+"65","zWalker Tiffany",4
+"66","zYates William",4
+"67","Accessibility",3
+"68","Controlled vocabulary",3
+"69","Crosswalks",3
+"70","Digitization",3
+"71","keywords",3
+"72","Linked Data",3
+"73","linked open data",3
+"74","MARC Format",3
+"75","Metadata standards",3
+"76","Music Education",3
+"77","ontologies",3
+"78","Semantic Web",3
+"79","Special Collections",3
+"80","subjects",3
+"81","tagging",3
+"82","Tags (Metadata)",3
+"83","taxonomy",3
+"84","Topical descriptor 2",3
+"85","Topical descriptor 3",3
+"86","User-generated metadata",3
+"87","zDauphinee Elise",3
+"88","zHouk Casandra",3
+"89","zKazmer Michelle",3
+"90","zMoors McKayla",3
+"91","zPage Gilman",3
+"92","zPaul Chartrand",3
+"93","ZPhillips Bethanee",3
+"94","zPulley Alison",3
+"95","zRyan Kandace",3
+"96","Author archives",2
+"97","BISAC (Book Industry Standards and Communications)",2
+"98","cataloging",2
+"99","Cataloguing Issues",2
+"100","children",2
+"101","Children’s literature",2
+"102","citation",2
+"103","Classification - Books",2
+"104","Collection Development",2
+"105","Comic Books",2
+"106","Con 5",2
+"107","Contibute 4",2
+"108","Contribute4",2
+"109","Controlled Vocabularies",2
+"110","Controlled Vocabulary",2
+"111","Data Mining",2
+"112","Database",2
+"113","DCMI",2
+"114","Digital archiving",2
+"115","Digital projects",2
+"116","Digital Public Library of America (DPLA)",2
+"117","E-Books",2
+"118","Element Sets",2
+"119","FRBR",2
+"120","Graphic Novels",2
+"121","indexing",2
+"122","International",2
+"123","Keyword searching",2
+"124","Library of Congress",2
+"125","Life writing",2
+"126","Linked data",2
+"127","MARC format",2
+"128","metadata schema",2
+"129","Metadata schema",2
+"130","MODS",2
+"131","Museum Informatics",2
+"132","museums",2
+"133","Music",2
+"134","Music & Technology",2
+"135","Ontologies (Information retrieval)",2
+"136","Public libraries",2
+"137","RDA",2
+"138","Research",2
+"139","Resource Description",2
+"140","Search Results",2
+"141","Semantically-linked Metadata",2
+"142","subject headings",2
+"143","Taxonomy",2
+"144","technology",2
+"145","Topical descriptor 1",2
+"146","Video Games",2
+"147","xBarrett Laura",2
+"148","zBarrett Laura",2
+"149","zHiliary Simon",2
+"150","zHouk",2
+"151","zPhillips Bethanee",2
+"152","zSimon Hiliary",2
+"153","16th century",1
+"154","abstract",1
+"155","Access to information",1
+"156","aging",1
+"157","Aligning Music Metadata Structures",1
+"158","Analysis",1
+"159","Anglo-American cataloguing rules",1
+"160","Animals",1
+"161","API",1
+"162","archaeology",1
+"163","Archaeology",1
+"164","Architecture archives",1
+"165","Archival description",1
+"166","Archival materials",1
+"167","ARCHIVES catalogs",1
+"168","Article Findability",1
+"169","Audiovisual MAP",1
+"170","Audiovisual materials",1
+"171","authenticity",1
+"172","Authority control",1
+"173","Authority Control",1
+"174","Authority control software",1
+"175","automatic indexing",1
+"176","Bayron, Julian",1
+"177","bibliographic instruction",1
+"178","bibliometrics",1
+"179","Big Metadata / Smart Metadata / Metadata Capital",1
+"180","Biodiversity",1
+"181","Book Classification",1
+"182","book selection rationales",1
+"183","Bookseller",1
+"184","Bureaucracy",1
+"185","Catalog databases",1
+"186","cataloging cultural objects",1
+"187","Cataloging Issues",1
+"188","Cataloging Music Manuscripts",1
+"189","cataloging of artefacts",1
+"190","Cataloging of books",1
+"191","Cataloging of digital objects",1
+"192","cataloging of games",1
+"193","Cataloging of serial publications",1
+"194","Cataloging standards",1
+"195","Cataloging Video Games",1
+"196","Cataloging Websites",1
+"197","Categories for the Description of Works of Art (CDWA)",1
+"198","Catologing",1
+"199","Celestial cartography",1
+"200","Charitable Donations",1
+"201","Chiropractic -- Classification",1
+"202","circulation variations",1
+"203","Classification Guidelines",1
+"204","collection metadata schemas",1
+"205","Collections Management",1
+"206","commodification",1
+"207","Community information",1
+"208","comparisons",1
+"209","computers",1
+"210","Con 3",1
+"211","CON1",1
+"212","Con3",1
+"213","Conceptual Models",1
+"214","CONTENTdm",1
+"215","Contribute One",1
+"216","Contribute1",1
+"217","Contribute5",1
+"218","Contribution Two",1
+"219","Controlled Terms",1
+"220","Controlled Vocabulary Types",1
+"221","Cookbooks",1
+"222","Corpus Linguistics",1
+"223","Costumes",1
+"224","cultural heritage",1
+"225","Cultural property -- Management",1
+"226","CV maintenance",1
+"227","Darwin Core",1
+"228","data curation",1
+"229","data preservation",1
+"230","Data Science",1
+"231","database sharing",1
+"232","DCAM",1
+"233","Definition",1
+"234","Definition and Function Analysis",1
+"235","Describe and index",1
+"236","Design Science Research",1
+"237","Digital",1
+"238","Digital archives & libraries",1
+"239","Digital asset management",1
+"240","Digital Collection",1
+"241","Digital Collections",1
+"242","Digital Ecosystem(s)",1
+"243","Digital Humanities",1
+"244","digital images",1
+"245","Digital inclusion",1
+"246","Digital Library",1
+"247","Digital Library Management",1
+"248","digital project",1
+"249","Digital Sound Recording",1
+"250","Digital Technology",1
+"251","digitalization",1
+"252","digitization",1
+"253","DIGITIZATION",1
+"254","Disaster plans",1
+"255","DoGi database",1
+"256","DPLA",1
+"257","Dublin Core Application Profile",1
+"258","Dynamic video abstract",1
+"259","E-books",1
+"260","e-deposit",1
+"261","EAD",1
+"262","Education",1
+"263","Educational Technology",1
+"264","Electronic Dance Music",1
+"265","electronic documents",1
+"266","electronic resources",1
+"267","element sets",1
+"268","Epistemiology",1
+"269","evolutionary theory",1
+"270","Extensions",1
+"271","Faceted taxonomies",1
+"272","fake news",1
+"273","Fashion",1
+"274","Fiction Classification",1
+"275","findability",1
+"276","folksonomies",1
+"277","folksonomy",1
+"278","Folksonomy (user-generated metadata)",1
+"279","FRBR (Conceptual model)",1
+"280","Free-text",1
+"281","Free-text queries",1
+"282","Game Shows",1
+"283","games",1
+"284","Games",1
+"285","glossories",1
+"286","Historians",1
+"287","History",1
+"288","Household Tools",1
+"289","Hyperlinks",1
+"290","IFLA LRM",1
+"291","Indexing Images",1
+"292","Indexing Template",1
+"293","Indigenous cultures",1
+"294","Informal Services Definition",1
+"295","Information behaviour & retrieval",1
+"296","Information management",1
+"297","Information Media",1
+"298","information professional",1
+"299","information retrieval",1
+"300","Information Services",1
+"301","Information technology",1
+"302","institutional theory",1
+"303","Internetworking",1
+"304","Interoperability",1
+"305","introduction",1
+"306","Jieun Chang",1
+"307","keyword",1
+"308","keyword context",1
+"309","Keyword Search",1
+"310","Knowledge Acquisition",1
+"311","Knowledge organization system",1
+"312","Knowledge Organization Systems",1
+"313","Knowledge representation",1
+"314","Law Books",1
+"315","Learning Object Repository",1
+"316","learning objects",1
+"317","Learning Objects",1
+"318","Legal Literature",1
+"319","Legal Research",1
+"320","Library & Information Science",1
+"321","Library Catalogs",1
+"322","Library Classification",1
+"323","Library design",1
+"324","Library Information Networks",1
+"325","Library of Congress Classification Scheme",1
+"326","Library of Congress subject headings",1
+"327","Library of Congress Subject Headings",1
+"328","Library of Congress Subject Headings (LCSH)",1
+"329","library programming",1
+"330","Linked data (Semantic Web)",1
+"331","Literary Warrant",1
+"332","Machine Learning",1
+"333","manga",1
+"334","MANN, Thomas, 1875-1955",1
+"335","MAP Classes",1
+"336","MAP collections",1
+"337","MARC formats",1
+"338","Mass production",1
+"339","Medical Subject Headings (MeSH)",1
+"340","Medicine Archives",1
+"341","metadata application profile",1
+"342","Metadata Application Profile,",1
+"343","Metadata Application Profile, Contribute 1, zDauphinee Elise, content analysis, information resource management,  metadata,",1
+"344","Metadata Application Profiles",1
+"345","metadata application samples",1
+"346","Metadata Encoding & Transmission Schema (METS)",1
+"347","Metadata initiatives",1
+"348","Metadata Management",1
+"349","Metadata mapping",1
+"350","Metadata practices",1
+"351","Metadata Schema",1
+"352","metadata standards",1
+"353","Metadata Standards",1
+"354","Metadata strategy",1
+"355","Metaphysical",1
+"356","Metatdata Application Profile",1
+"357","Microtonal Music",1
+"358","misinformation",1
+"359","multilingualism",1
+"360","multimedia, videos, databases, applications",1
+"361","Music Genre/Form Project Group",1
+"362","Music Genres",1
+"363","Music industry",1
+"364","Music Libraries",1
+"365","Music Library Association",1
+"366","Music Ontology",1
+"367","Music scores",1
+"368","Music Technology",1
+"369","Musical Audio Resources",1
+"370","National Bibliographies",1
+"371","Natonal Library of Sweden",1
+"372","natural language processing",1
+"373","Natural Language Processing",1
+"374","NISO",1
+"375","Nomenclature",1
+"376","Object Description and Representation",1
+"377","Object Organization",1
+"378","objects",1
+"379","Omeka",1
+"380","Ontologies",1
+"381","Ontology",1
+"382","ontoloxy",1
+"383","Open source software",1
+"384","organization",1
+"385","Penn State University LIbraries",1
+"386","Performing arts digital library",1
+"387","Persoanlization",1
+"388","Personal libraries",1
+"389","Pharmacy / Pharmacists",1
+"390","Photography",1
+"391","picture book recommendations",1
+"392","PMAP",1
+"393","Postcard Collection",1
+"394","Preservation of materials",1
+"395","Primary literature",1
+"396","production of culture",1
+"397","Program Descriptions",1
+"398","Provenance Description",1
+"399","psychology",1
+"400","Quality Assurance",1
+"401","RDF format",1
+"402","readers advisory services",1
+"403","Recommended properties",1
+"404","Records exchange",1
+"405","reference",1
+"406","Required properties",1
+"407","RES Subclass",1
+"408","RES Superclass",1
+"409","research",1
+"410","resources",1
+"411","result quality",1
+"412","Retrieval",1
+"413","Rhetorical Theory",1
+"414","Sale",1
+"415","Scotland / Scottish Parliament",1
+"416","Search interface design",1
+"417","Search Options",1
+"418","search requirements",1
+"419","Search Terms",1
+"420","Semantic Interoperability",1
+"421","Semantics",1
+"422","Sheet Music",1
+"423","Shelf Classification",1
+"424","Social cataloging",1
+"425","Social tagging behavior",1
+"426","Specificity",1
+"427","Standards",1
+"428","Standards Valuation",1
+"429","Star maps (Astronomy)",1
+"430","Static video abstract",1
+"431","Statistics",1
+"432","Steam",1
+"433","storytelling",1
+"434","strenghts/weaknesses",1
+"435","Subject",1
+"436","Subject access",1
+"437","Subject Access",1
+"438","Subject Analysis",1
+"439","subject heading",1
+"440","Surveys",1
+"441","Synonymous Concepts",1
+"442","tabletop games",1
+"443","Tagging Quality",1
+"444","tags",1
+"445","taxonomies",1
+"446","Taxonomies",1
+"447","Teaching / Learning",1
+"448","Technological Literacy",1
+"449","Technology",1
+"450","Term Relationships",1
+"451","terminology",1
+"452","Terminology Mappings",1
+"453","Text Analysis",1
+"454","Theft",1
+"455","Topic Modeling",1
+"456","topical descriptor1",1
+"457","Universal Bibliographic Control",1
+"458","Unpublished works",1
+"459","user behavior",1
+"460","user generated metadata",1
+"461","user interface",1
+"462","User studies",1
+"463","User Tags",1
+"464","User-created Metadata",1
+"465","Users' language",1
+"466","Video abstraction",1
+"467","Video Game Metadata Schema",1
+"468","video games",1
+"469","Video games",1
+"470","video streams",1
+"471","Visual information",1
+"472","Vocabularies",1
+"473","Vocabulary Crosswalks",1
+"474","Vocabulary Encoding Scheme",1
+"475","Vocabulary, Controlled",1
+"476","WEB (Computer program language)",1
+"477","Web Search Engine",1
+"478","xRyan Kandace",1
+"479","ZBland Michael",1
+"480","zChartrand Paul",1
+"481","zCindy Leahy",1
+"482","zMcKayla Moors",1
+"483","zPaul chartrand",1
