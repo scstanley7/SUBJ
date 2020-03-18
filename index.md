@@ -61,6 +61,8 @@ Goh, Dion Hoe-Lian. "Collaborative Search and Retrieval in digital libraries." *
 
 Hagedorn, Kat, Michael Kargela, Youn Noh, and David Newman. "A New Way to Find: Testing the Use of Clustering Topics in Digital Libraries." *D-Lib Magazine*, Vol. 17, No. 10, 2011.
 
+Hunter, Matthew E. "Against Modules: Using Zotero As a Learner-centered Course Management Tool." https://bigredmeh.wordpress.com/2019/08/15/againstmodules/ Accessed 18 March 2020.
+
 Joudrey, Daniel N. and Arlene G. Taylor. *The Organization of Information.* Fourth Edition, Santa Barbara, Libraries Unlimited, 2018.
 
 Manzo, Christina, Geoff Kaufman, Sukdith Punjasthitkul, and Mary Flanagan. "'By the People, For the People': Assessing the Value of Crowdsourced, User-Generated Metadata." *Digital Humanities Quarterly*, Vol. 9, No. 1, 2015.
